@@ -1,0 +1,18 @@
+{
+    "title": "<the title>",
+    "payees": [
+        {
+            "full_name": "<full name>",
+            "id": "<id>",
+            "default_amount": "<default amount>"
+        },
+        {
+            "full_name": "<full name>",
+            "id": "<id>",
+            "default_amount": "<default amount>"
+        }
+    ],
+    "schedule": {
+        "id": "<schedule id>"
+    }
+}
